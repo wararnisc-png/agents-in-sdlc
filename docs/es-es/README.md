@@ -24,11 +24,11 @@ Crea el mismo cuestionario desde la terminal, revisa las diferencias, ejecuta se
 
 Crea el cuestionario en VS Code, pruébalo en el explorador integrado, publícalo con Control de código fuente, trabaja con incidencias y solicitudes de incorporación de cambios mediante las herramientas de GitHub y delega trabajo a una sesión en la nube.
 
-## Desarrollo en escenarios reales
+## Desarrollo en situaciones reales
 
 Practica con GitHub Copilot en un ciclo de vida de desarrollo de software realista mediante la aplicación Tailspin Toys y su backlog. Elige el entorno en el que quieras trabajar y, a continuación, planifica, desarrolla, prueba, revisa y entrega cambios significativos.
 
-### [Consulta los talleres de desarrollo en escenarios reales][real-world-development]
+### [Consulta los talleres de desarrollo en situaciones reales][real-world-development]
 
 Elige entre GitHub Copilot CLI, la aplicación GitHub Copilot, el agente de GitHub Copilot en la nube o Visual Studio Code.
 
@@ -40,4 +40,4 @@ Elige entre GitHub Copilot CLI, la aplicación GitHub Copilot, el agente de GitH
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/
